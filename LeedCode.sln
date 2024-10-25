@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0002.Add Two Numbers", "000
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0002.Add Two Numbers", "0002.Add Two Numbers\0002.Add Two Numbers.csproj", "{B83FEE21-E7B5-4F79-AE53-966B59E4B9E2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0003.Longest Substring Without Repeating Characters/", "0003.Longest Substring Without Repeating Characters/", "{2BCBC88A-BB6D-4660-85A0-38688CB9DA9C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0003.Longest Substring", "0003.Longest Substring", "{2BCBC88A-BB6D-4660-85A0-38688CB9DA9C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0003.", "0003\0003..csproj", "{9F168952-7F8C-4FE9-ADED-DCE670FE29A4}"
 EndProject
