@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0007.Reverse Integer", "000
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0003.Longest Substring Without Repeating Characters", "0003.Longest Substring Without Repeating Characters \0003.Longest Substring Without Repeating Characters.csproj", "{9BE4090D-C66F-4ED8-A6DF-3B81DE9F191D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0008.String to Integer", "0008.String to Integer \0008.String to Integer.csproj", "{71CE9A83-C1B0-4403-B5D3-4B83BACEB364}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,5 +79,9 @@ Global
 		{9BE4090D-C66F-4ED8-A6DF-3B81DE9F191D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BE4090D-C66F-4ED8-A6DF-3B81DE9F191D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BE4090D-C66F-4ED8-A6DF-3B81DE9F191D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71CE9A83-C1B0-4403-B5D3-4B83BACEB364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CE9A83-C1B0-4403-B5D3-4B83BACEB364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CE9A83-C1B0-4403-B5D3-4B83BACEB364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CE9A83-C1B0-4403-B5D3-4B83BACEB364}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
