@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0011.Container With Most Wa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0012.Integer to Roman", "0012.Integer to Roman\0012.Integer to Roman.csproj", "{654E6F99-38C4-4154-84DC-7FF54661692B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0013.Roman to Integer", "0013.Roman to Integer\0013.Roman to Integer.csproj", "{B6D43CF3-B3A0-43C6-BAE4-26E4AF05BBBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,5 +97,9 @@ Global
 		{654E6F99-38C4-4154-84DC-7FF54661692B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{654E6F99-38C4-4154-84DC-7FF54661692B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{654E6F99-38C4-4154-84DC-7FF54661692B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D43CF3-B3A0-43C6-BAE4-26E4AF05BBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D43CF3-B3A0-43C6-BAE4-26E4AF05BBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D43CF3-B3A0-43C6-BAE4-26E4AF05BBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D43CF3-B3A0-43C6-BAE4-26E4AF05BBBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
