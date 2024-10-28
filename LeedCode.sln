@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0008.String to Integer", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0009.Palindrome Number", "0009.Palindrome Number\0009.Palindrome Number.csproj", "{8CA7520E-57A0-45E6-B28D-887FDE552E35}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0004.Median of Two Sorted Arrays", "0004.Median of Two Sorted Arrays", "{3655F1FE-0E54-449C-9CE1-0A931084E2CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0004.Median of Two Sorted Arrays", "0004.Median of Two Sorted Arrays\0004.Median of Two Sorted Arrays.csproj", "{429A61CB-4DA1-48C5-8522-4F1165D7DE4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +40,7 @@ Global
 		{B83FEE21-E7B5-4F79-AE53-966B59E4B9E2} = {309414CF-AB14-4D5C-885A-454B93CCC9BF}
 		{21A2C2CA-5D6A-4712-AD36-F79DAFF7B3FF} = {AB34A2F8-EF2D-4350-8F3A-0E5EE2D63B30}
 		{9BE4090D-C66F-4ED8-A6DF-3B81DE9F191D} = {2BCBC88A-BB6D-4660-85A0-38688CB9DA9C}
+		{429A61CB-4DA1-48C5-8522-4F1165D7DE4D} = {3655F1FE-0E54-449C-9CE1-0A931084E2CD}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{F1E2A11E-4480-4392-B42B-CA9E73DC5617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -62,5 +67,9 @@ Global
 		{8CA7520E-57A0-45E6-B28D-887FDE552E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CA7520E-57A0-45E6-B28D-887FDE552E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CA7520E-57A0-45E6-B28D-887FDE552E35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429A61CB-4DA1-48C5-8522-4F1165D7DE4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429A61CB-4DA1-48C5-8522-4F1165D7DE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429A61CB-4DA1-48C5-8522-4F1165D7DE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429A61CB-4DA1-48C5-8522-4F1165D7DE4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
