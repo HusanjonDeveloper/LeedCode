@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0016.3Sum Closest", "0016.3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0017.Letter Combinations of a Phone Number", "0017.Letter Combinations of a Phone Number \0017.Letter Combinations of a Phone Number.csproj", "{278BB28A-33FF-4823-9C65-7C1E4A64C6E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0018.4Sum", "0018.4Sum\0018.4Sum.csproj", "{F2720E78-6DF4-4EA6-A035-EB18219668CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,5 +127,9 @@ Global
 		{278BB28A-33FF-4823-9C65-7C1E4A64C6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{278BB28A-33FF-4823-9C65-7C1E4A64C6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{278BB28A-33FF-4823-9C65-7C1E4A64C6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2720E78-6DF4-4EA6-A035-EB18219668CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2720E78-6DF4-4EA6-A035-EB18219668CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2720E78-6DF4-4EA6-A035-EB18219668CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2720E78-6DF4-4EA6-A035-EB18219668CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
