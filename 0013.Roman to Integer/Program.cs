@@ -1,4 +1,6 @@
-﻿public class Solution {
+﻿
+
+public class Solution {
     public int RomanToInt(string s) {
         Dictionary<char, int> d = new Dictionary<char, int>();
         d.Add('I', 1);
