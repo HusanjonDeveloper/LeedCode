@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0023.Merge k Sorted Lists",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0024.Swap Nodes in Pairs", "0024.Swap Nodes in Pairs\0024.Swap Nodes in Pairs.csproj", "{F331A755-0475-4F64-90E4-4101A9B41CFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0025.Reverse Nodes in k-Group", "0025.Reverse Nodes in k-Group\0025.Reverse Nodes in k-Group.csproj", "{3F4C9A9E-3646-4F20-AFB1-DC92CD010466}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,5 +169,9 @@ Global
 		{F331A755-0475-4F64-90E4-4101A9B41CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F331A755-0475-4F64-90E4-4101A9B41CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F331A755-0475-4F64-90E4-4101A9B41CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4C9A9E-3646-4F20-AFB1-DC92CD010466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4C9A9E-3646-4F20-AFB1-DC92CD010466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4C9A9E-3646-4F20-AFB1-DC92CD010466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4C9A9E-3646-4F20-AFB1-DC92CD010466}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
