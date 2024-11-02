@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0019.Remove Nth Node From E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0020.Valid Parentheses", "0020.Valid Parentheses\0020.Valid Parentheses.csproj", "{2DB18DCD-810D-457C-9C43-DF33B456D72A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0021.Merge Two Sorted Lists", "0021.Merge Two Sorted Lists\0021.Merge Two Sorted Lists.csproj", "{437FB7DB-0570-445F-B261-519F5AE0801D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,5 +145,9 @@ Global
 		{2DB18DCD-810D-457C-9C43-DF33B456D72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DB18DCD-810D-457C-9C43-DF33B456D72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DB18DCD-810D-457C-9C43-DF33B456D72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437FB7DB-0570-445F-B261-519F5AE0801D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437FB7DB-0570-445F-B261-519F5AE0801D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437FB7DB-0570-445F-B261-519F5AE0801D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437FB7DB-0570-445F-B261-519F5AE0801D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
