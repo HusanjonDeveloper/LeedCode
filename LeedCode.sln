@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0127.Word Ladder", "0127.Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0128.Longest Consecutive Sequence", "0128.Longest Consecutive Sequence\0128.Longest Consecutive Sequence.csproj", "{13E2F21B-E11B-496C-AA0E-4569E23EDCE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0026.Remove Duplicates from Sorted Array", "0026.Remove Duplicates from Sorted Array\0026.Remove Duplicates from Sorted Array.csproj", "{EF6FC9D6-395B-4BA7-AFEE-53F95C25BF45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -191,5 +193,9 @@ Global
 		{13E2F21B-E11B-496C-AA0E-4569E23EDCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13E2F21B-E11B-496C-AA0E-4569E23EDCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13E2F21B-E11B-496C-AA0E-4569E23EDCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF6FC9D6-395B-4BA7-AFEE-53F95C25BF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6FC9D6-395B-4BA7-AFEE-53F95C25BF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6FC9D6-395B-4BA7-AFEE-53F95C25BF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6FC9D6-395B-4BA7-AFEE-53F95C25BF45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
