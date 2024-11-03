@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0025.Reverse Nodes in k-Gro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0126.Word Ladder", "0126.Word Ladder\0126.Word Ladder.csproj", "{3EBC2644-5D94-44E5-B3E2-1966957BD00E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0127.Word Ladder", "0127.Word Ladder \0127.Word Ladder.csproj", "{5B6F124D-3780-463F-B7BC-8479D1177C7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -179,5 +181,9 @@ Global
 		{3EBC2644-5D94-44E5-B3E2-1966957BD00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EBC2644-5D94-44E5-B3E2-1966957BD00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EBC2644-5D94-44E5-B3E2-1966957BD00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6F124D-3780-463F-B7BC-8479D1177C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6F124D-3780-463F-B7BC-8479D1177C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6F124D-3780-463F-B7BC-8479D1177C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6F124D-3780-463F-B7BC-8479D1177C7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
