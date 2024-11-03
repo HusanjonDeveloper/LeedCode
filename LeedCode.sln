@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0024.Swap Nodes in Pairs", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0025.Reverse Nodes in k-Group", "0025.Reverse Nodes in k-Group\0025.Reverse Nodes in k-Group.csproj", "{3F4C9A9E-3646-4F20-AFB1-DC92CD010466}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0126.Word Ladder", "0126.Word Ladder\0126.Word Ladder.csproj", "{3EBC2644-5D94-44E5-B3E2-1966957BD00E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -173,5 +175,9 @@ Global
 		{3F4C9A9E-3646-4F20-AFB1-DC92CD010466}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F4C9A9E-3646-4F20-AFB1-DC92CD010466}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F4C9A9E-3646-4F20-AFB1-DC92CD010466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBC2644-5D94-44E5-B3E2-1966957BD00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBC2644-5D94-44E5-B3E2-1966957BD00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBC2644-5D94-44E5-B3E2-1966957BD00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBC2644-5D94-44E5-B3E2-1966957BD00E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
