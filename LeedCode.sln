@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0030.Substring with Concate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0031.Next Permutation", "0031.Next Permutation\0031.Next Permutation.csproj", "{2E18A588-38AE-4DB9-AF8B-7A8776360FAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0032.Longest Valid Parentheses", "0032.Longest Valid Parentheses\0032.Longest Valid Parentheses.csproj", "{13566857-CDFB-48E6-8DEA-7D17B56B6CE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -227,5 +229,9 @@ Global
 		{2E18A588-38AE-4DB9-AF8B-7A8776360FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E18A588-38AE-4DB9-AF8B-7A8776360FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E18A588-38AE-4DB9-AF8B-7A8776360FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13566857-CDFB-48E6-8DEA-7D17B56B6CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13566857-CDFB-48E6-8DEA-7D17B56B6CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13566857-CDFB-48E6-8DEA-7D17B56B6CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13566857-CDFB-48E6-8DEA-7D17B56B6CE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
