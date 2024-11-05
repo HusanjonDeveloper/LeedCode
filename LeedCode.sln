@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0029.Divide Two Integers", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0030.Substring with Concatenation of All Words", "0030.Substring with Concatenation of All Words\0030.Substring with Concatenation of All Words.csproj", "{E9127D2C-3873-4D76-9A87-8660B0D139CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0031.Next Permutation", "0031.Next Permutation\0031.Next Permutation.csproj", "{2E18A588-38AE-4DB9-AF8B-7A8776360FAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -221,5 +223,9 @@ Global
 		{E9127D2C-3873-4D76-9A87-8660B0D139CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9127D2C-3873-4D76-9A87-8660B0D139CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9127D2C-3873-4D76-9A87-8660B0D139CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E18A588-38AE-4DB9-AF8B-7A8776360FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E18A588-38AE-4DB9-AF8B-7A8776360FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E18A588-38AE-4DB9-AF8B-7A8776360FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E18A588-38AE-4DB9-AF8B-7A8776360FAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
