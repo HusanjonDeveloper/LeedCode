@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0040.Combination Sum II", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0041.First Missing Positive", "0041.First Missing Positive\0041.First Missing Positive.csproj", "{508CCAD3-0C0E-430A-84AE-606C5ED6342A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0042.Trapping Rain Water", "0042.Trapping Rain Water\0042.Trapping Rain Water.csproj", "{00F9606F-F3DC-47F9-A220-EB7D0CF7C10E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -287,5 +289,9 @@ Global
 		{508CCAD3-0C0E-430A-84AE-606C5ED6342A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{508CCAD3-0C0E-430A-84AE-606C5ED6342A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{508CCAD3-0C0E-430A-84AE-606C5ED6342A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F9606F-F3DC-47F9-A220-EB7D0CF7C10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F9606F-F3DC-47F9-A220-EB7D0CF7C10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F9606F-F3DC-47F9-A220-EB7D0CF7C10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F9606F-F3DC-47F9-A220-EB7D0CF7C10E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
