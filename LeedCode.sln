@@ -113,6 +113,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0047.Permutations II", "004
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0048.Rotate Image", "0048.Rotate Image\0048.Rotate Image.csproj", "{83CA1080-7090-4B4A-A742-98923807D3D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0049.Group Anagrams", "0049.Group Anagrams\0049.Group Anagrams.csproj", "{8C33183F-AF43-4103-A35F-8D0C6F426CA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -329,5 +331,9 @@ Global
 		{83CA1080-7090-4B4A-A742-98923807D3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83CA1080-7090-4B4A-A742-98923807D3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83CA1080-7090-4B4A-A742-98923807D3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C33183F-AF43-4103-A35F-8D0C6F426CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C33183F-AF43-4103-A35F-8D0C6F426CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C33183F-AF43-4103-A35F-8D0C6F426CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C33183F-AF43-4103-A35F-8D0C6F426CA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
