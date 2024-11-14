@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0043.Multiply String", "004
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0044.Wildcard Matching", "0044.Wildcard Matching\0044.Wildcard Matching.csproj", "{5DF518F7-8274-4399-BA23-F08FD1D4DDE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0045.Jump Game II", "0045.Jump Game II\0045.Jump Game II.csproj", "{30C71F0C-9C3F-4113-9F01-4D033FF01738}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -305,5 +307,9 @@ Global
 		{5DF518F7-8274-4399-BA23-F08FD1D4DDE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DF518F7-8274-4399-BA23-F08FD1D4DDE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DF518F7-8274-4399-BA23-F08FD1D4DDE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C71F0C-9C3F-4113-9F01-4D033FF01738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C71F0C-9C3F-4113-9F01-4D033FF01738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C71F0C-9C3F-4113-9F01-4D033FF01738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C71F0C-9C3F-4113-9F01-4D033FF01738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
