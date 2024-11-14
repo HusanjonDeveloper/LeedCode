@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0042.Trapping Rain Water", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0043.Multiply String", "0043.Multiply String\0043.Multiply String.csproj", "{F3079BA9-6861-4C84-9F1E-8F867116B87D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0044.Wildcard Matching", "0044.Wildcard Matching\0044.Wildcard Matching.csproj", "{5DF518F7-8274-4399-BA23-F08FD1D4DDE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -299,5 +301,9 @@ Global
 		{F3079BA9-6861-4C84-9F1E-8F867116B87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3079BA9-6861-4C84-9F1E-8F867116B87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3079BA9-6861-4C84-9F1E-8F867116B87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF518F7-8274-4399-BA23-F08FD1D4DDE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF518F7-8274-4399-BA23-F08FD1D4DDE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF518F7-8274-4399-BA23-F08FD1D4DDE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF518F7-8274-4399-BA23-F08FD1D4DDE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
