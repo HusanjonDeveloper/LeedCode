@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0041.First Missing Positive
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0042.Trapping Rain Water", "0042.Trapping Rain Water\0042.Trapping Rain Water.csproj", "{00F9606F-F3DC-47F9-A220-EB7D0CF7C10E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0043.Multiply String", "0043.Multiply String\0043.Multiply String.csproj", "{F3079BA9-6861-4C84-9F1E-8F867116B87D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -293,5 +295,9 @@ Global
 		{00F9606F-F3DC-47F9-A220-EB7D0CF7C10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00F9606F-F3DC-47F9-A220-EB7D0CF7C10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00F9606F-F3DC-47F9-A220-EB7D0CF7C10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3079BA9-6861-4C84-9F1E-8F867116B87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3079BA9-6861-4C84-9F1E-8F867116B87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3079BA9-6861-4C84-9F1E-8F867116B87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3079BA9-6861-4C84-9F1E-8F867116B87D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
