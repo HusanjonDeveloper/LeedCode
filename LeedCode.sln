@@ -117,6 +117,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0049.Group Anagrams", "0049
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0050.Pow", "0050.Pow\0050.Pow.csproj", "{7AF06D6B-28F9-46F0-9BD5-1C865FDD41AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0051.N-Queens", "0051.N-Queens\0051.N-Queens.csproj", "{DCBA6E7B-3DA6-485E-8C6E-C6E7B1F3E6C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -341,5 +343,9 @@ Global
 		{7AF06D6B-28F9-46F0-9BD5-1C865FDD41AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AF06D6B-28F9-46F0-9BD5-1C865FDD41AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AF06D6B-28F9-46F0-9BD5-1C865FDD41AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBA6E7B-3DA6-485E-8C6E-C6E7B1F3E6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBA6E7B-3DA6-485E-8C6E-C6E7B1F3E6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBA6E7B-3DA6-485E-8C6E-C6E7B1F3E6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBA6E7B-3DA6-485E-8C6E-C6E7B1F3E6C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
