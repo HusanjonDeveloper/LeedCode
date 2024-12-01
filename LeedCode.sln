@@ -137,6 +137,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0057.Insert Interval", "005
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0058.Length of Last Word", "0058.Length of Last Word\0058.Length of Last Word.csproj", "{78EF27B9-D8B1-4F51-A491-EEFA84E465DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0059.Spiral Matrix II", "0059.Spiral Matrix II\0059.Spiral Matrix II.csproj", "{86F4EB57-27C8-4895-8EB6-BBF528DD06DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -399,5 +401,9 @@ Global
 		{78EF27B9-D8B1-4F51-A491-EEFA84E465DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78EF27B9-D8B1-4F51-A491-EEFA84E465DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78EF27B9-D8B1-4F51-A491-EEFA84E465DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F4EB57-27C8-4895-8EB6-BBF528DD06DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F4EB57-27C8-4895-8EB6-BBF528DD06DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F4EB57-27C8-4895-8EB6-BBF528DD06DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F4EB57-27C8-4895-8EB6-BBF528DD06DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
