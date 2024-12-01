@@ -131,6 +131,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0000-0099", "0000-0099", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0100-0199", "0100-0199", "{B36D8BAE-F825-4929-9363-CE7E4668741E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0056.Merge Intervals", "0056.Merge Intervals\0056.Merge Intervals.csproj", "{1EA250AA-A9DC-42A9-8F72-EF3AF7EEE62E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -381,5 +383,9 @@ Global
 		{F84491FB-83CB-4297-9DDC-9ED4F542C665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F84491FB-83CB-4297-9DDC-9ED4F542C665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F84491FB-83CB-4297-9DDC-9ED4F542C665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA250AA-A9DC-42A9-8F72-EF3AF7EEE62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA250AA-A9DC-42A9-8F72-EF3AF7EEE62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA250AA-A9DC-42A9-8F72-EF3AF7EEE62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA250AA-A9DC-42A9-8F72-EF3AF7EEE62E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
