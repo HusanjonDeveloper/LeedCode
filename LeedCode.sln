@@ -121,6 +121,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0051.N-Queens", "0051.N-Que
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0052.N-Queens", "0052.N-Queens\0052.N-Queens.csproj", "{836E7F48-AAD9-4BC7-B810-D9779DCF4051}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0053.Maximum Subarray", "0053.Maximum Subarray\0053.Maximum Subarray.csproj", "{276BE6B5-32A5-4853-A4CA-6432029F401E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -353,5 +355,9 @@ Global
 		{836E7F48-AAD9-4BC7-B810-D9779DCF4051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{836E7F48-AAD9-4BC7-B810-D9779DCF4051}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{836E7F48-AAD9-4BC7-B810-D9779DCF4051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{276BE6B5-32A5-4853-A4CA-6432029F401E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276BE6B5-32A5-4853-A4CA-6432029F401E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276BE6B5-32A5-4853-A4CA-6432029F401E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276BE6B5-32A5-4853-A4CA-6432029F401E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
