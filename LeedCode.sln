@@ -143,6 +143,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0060.Permutation Sequence",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0061.Rotate List", "0061.Rotate List\0061.Rotate List.csproj", "{451B9850-EE89-4949-87E8-4DC2E82AE4DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0062.Unique Paths", "0062.Unique Paths\0062.Unique Paths.csproj", "{7DE8A4D0-8DBF-41CB-9760-8CA938BFA94E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -417,5 +419,9 @@ Global
 		{451B9850-EE89-4949-87E8-4DC2E82AE4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{451B9850-EE89-4949-87E8-4DC2E82AE4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{451B9850-EE89-4949-87E8-4DC2E82AE4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE8A4D0-8DBF-41CB-9760-8CA938BFA94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE8A4D0-8DBF-41CB-9760-8CA938BFA94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE8A4D0-8DBF-41CB-9760-8CA938BFA94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE8A4D0-8DBF-41CB-9760-8CA938BFA94E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
