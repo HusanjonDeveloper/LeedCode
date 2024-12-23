@@ -163,6 +163,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0070.Climbing Stairs", "007
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0071.Simplify Path", "0071.Simplify Path\0071.Simplify Path.csproj", "{D2681394-1F49-466C-A974-E1A155360B40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0072.Edit Distance", "0072.Edit Distance\0072.Edit Distance.csproj", "{0789944A-00C9-4E09-8737-B3D0B43A55BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -477,5 +479,9 @@ Global
 		{D2681394-1F49-466C-A974-E1A155360B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2681394-1F49-466C-A974-E1A155360B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2681394-1F49-466C-A974-E1A155360B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0789944A-00C9-4E09-8737-B3D0B43A55BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0789944A-00C9-4E09-8737-B3D0B43A55BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0789944A-00C9-4E09-8737-B3D0B43A55BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0789944A-00C9-4E09-8737-B3D0B43A55BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
