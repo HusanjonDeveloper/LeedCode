@@ -159,6 +159,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0068.Text Justification", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0069.Sqrt_x", "0069.Sqrt_x\0069.Sqrt_x.csproj", "{19D98340-8DF4-4E9C-BC62-638481ADFE08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0070.Climbing Stairs", "0070.Climbing Stairs\0070.Climbing Stairs.csproj", "{942CD727-D790-499A-8191-8CFDCE50772C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -465,5 +467,9 @@ Global
 		{19D98340-8DF4-4E9C-BC62-638481ADFE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19D98340-8DF4-4E9C-BC62-638481ADFE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19D98340-8DF4-4E9C-BC62-638481ADFE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942CD727-D790-499A-8191-8CFDCE50772C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942CD727-D790-499A-8191-8CFDCE50772C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942CD727-D790-499A-8191-8CFDCE50772C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942CD727-D790-499A-8191-8CFDCE50772C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
