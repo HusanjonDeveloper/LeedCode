@@ -149,6 +149,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0063.Unique Paths II", "006
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0064.Minimum Path Sum", "0064.Minimum Path Sum\0064.Minimum Path Sum.csproj", "{095407E9-0FDD-4C2A-9712-7FD01B3A32EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0065.Valid Number", "0065.Valid Number\0065.Valid Number.csproj", "{16BFF6E1-5F3C-4007-AEE0-5205A98F6B79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -435,5 +437,9 @@ Global
 		{095407E9-0FDD-4C2A-9712-7FD01B3A32EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{095407E9-0FDD-4C2A-9712-7FD01B3A32EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{095407E9-0FDD-4C2A-9712-7FD01B3A32EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BFF6E1-5F3C-4007-AEE0-5205A98F6B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BFF6E1-5F3C-4007-AEE0-5205A98F6B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BFF6E1-5F3C-4007-AEE0-5205A98F6B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BFF6E1-5F3C-4007-AEE0-5205A98F6B79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
