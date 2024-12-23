@@ -161,6 +161,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0069.Sqrt_x", "0069.Sqrt_x\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0070.Climbing Stairs", "0070.Climbing Stairs\0070.Climbing Stairs.csproj", "{942CD727-D790-499A-8191-8CFDCE50772C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0071.Simplify Path", "0071.Simplify Path\0071.Simplify Path.csproj", "{D2681394-1F49-466C-A974-E1A155360B40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -471,5 +473,9 @@ Global
 		{942CD727-D790-499A-8191-8CFDCE50772C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{942CD727-D790-499A-8191-8CFDCE50772C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{942CD727-D790-499A-8191-8CFDCE50772C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2681394-1F49-466C-A974-E1A155360B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2681394-1F49-466C-A974-E1A155360B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2681394-1F49-466C-A974-E1A155360B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2681394-1F49-466C-A974-E1A155360B40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
