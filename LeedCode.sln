@@ -177,6 +177,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0077.Combinations", "0077.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0078.Subsets", "0078.Subsets\0078.Subsets.csproj", "{24EEE632-E142-436D-BAD0-5FD7048A8843}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0079.Word Search", "0079.Word Search\0079.Word Search.csproj", "{D7BADAC1-A0B1-4821-B63D-AD7C8104C0A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -519,5 +521,9 @@ Global
 		{24EEE632-E142-436D-BAD0-5FD7048A8843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24EEE632-E142-436D-BAD0-5FD7048A8843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24EEE632-E142-436D-BAD0-5FD7048A8843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7BADAC1-A0B1-4821-B63D-AD7C8104C0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BADAC1-A0B1-4821-B63D-AD7C8104C0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BADAC1-A0B1-4821-B63D-AD7C8104C0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BADAC1-A0B1-4821-B63D-AD7C8104C0A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
