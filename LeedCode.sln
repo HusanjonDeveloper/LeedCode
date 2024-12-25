@@ -171,6 +171,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0074.Search a 2D Matrix", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0075.Sort Colors", "0075.Sort Colors\0075.Sort Colors.csproj", "{994A8AFC-5C4A-4774-AC1B-43CF98724491}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0076.Minimum Window Substring", "0076.Minimum Window Substring\0076.Minimum Window Substring.csproj", "{A247E7FA-52DC-400A-BC5C-CC0C322C6109}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -501,5 +503,9 @@ Global
 		{994A8AFC-5C4A-4774-AC1B-43CF98724491}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{994A8AFC-5C4A-4774-AC1B-43CF98724491}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{994A8AFC-5C4A-4774-AC1B-43CF98724491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A247E7FA-52DC-400A-BC5C-CC0C322C6109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A247E7FA-52DC-400A-BC5C-CC0C322C6109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A247E7FA-52DC-400A-BC5C-CC0C322C6109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A247E7FA-52DC-400A-BC5C-CC0C322C6109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
