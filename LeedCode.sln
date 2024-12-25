@@ -179,6 +179,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0078.Subsets", "0078.Subset
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0079.Word Search", "0079.Word Search\0079.Word Search.csproj", "{D7BADAC1-A0B1-4821-B63D-AD7C8104C0A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0080.Remove Duplicates from Sorted Array II", "0080.Remove Duplicates from Sorted Array II\0080.Remove Duplicates from Sorted Array II.csproj", "{1E360627-AEFF-430B-AC34-963A11952FEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -525,5 +527,9 @@ Global
 		{D7BADAC1-A0B1-4821-B63D-AD7C8104C0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7BADAC1-A0B1-4821-B63D-AD7C8104C0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7BADAC1-A0B1-4821-B63D-AD7C8104C0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E360627-AEFF-430B-AC34-963A11952FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E360627-AEFF-430B-AC34-963A11952FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E360627-AEFF-430B-AC34-963A11952FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E360627-AEFF-430B-AC34-963A11952FEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
