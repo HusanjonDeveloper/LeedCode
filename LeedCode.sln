@@ -175,6 +175,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0076.Minimum Window Substri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0077.Combinations", "0077.Combinations\0077.Combinations.csproj", "{B5236EC4-E148-43B3-8680-A2E93130C1AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0078.Subsets", "0078.Subsets\0078.Subsets.csproj", "{24EEE632-E142-436D-BAD0-5FD7048A8843}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -513,5 +515,9 @@ Global
 		{B5236EC4-E148-43B3-8680-A2E93130C1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5236EC4-E148-43B3-8680-A2E93130C1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5236EC4-E148-43B3-8680-A2E93130C1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24EEE632-E142-436D-BAD0-5FD7048A8843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EEE632-E142-436D-BAD0-5FD7048A8843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EEE632-E142-436D-BAD0-5FD7048A8843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EEE632-E142-436D-BAD0-5FD7048A8843}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
